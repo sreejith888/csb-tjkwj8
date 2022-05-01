@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "https://sreejith888.github.io/csb-tjkwj8/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://sreejith888.github.io/csb-tjkwj8/static/js/main.ce45dd3b.chunk.js",
-    "main.js.map": "https://sreejith888.github.io/csb-tjkwj8/static/js/main.ce45dd3b.chunk.js.map",
+    "main.js": "https://sreejith888.github.io/csb-tjkwj8/static/js/main.fb927135.chunk.js",
+    "main.js.map": "https://sreejith888.github.io/csb-tjkwj8/static/js/main.fb927135.chunk.js.map",
     "runtime-main.js": "https://sreejith888.github.io/csb-tjkwj8/static/js/runtime-main.5ad09479.js",
     "runtime-main.js.map": "https://sreejith888.github.io/csb-tjkwj8/static/js/runtime-main.5ad09479.js.map",
-    "static/js/2.cc863786.chunk.js": "https://sreejith888.github.io/csb-tjkwj8/static/js/2.cc863786.chunk.js",
-    "static/js/2.cc863786.chunk.js.map": "https://sreejith888.github.io/csb-tjkwj8/static/js/2.cc863786.chunk.js.map",
+    "static/js/2.9dc94117.chunk.js": "https://sreejith888.github.io/csb-tjkwj8/static/js/2.9dc94117.chunk.js",
+    "static/js/2.9dc94117.chunk.js.map": "https://sreejith888.github.io/csb-tjkwj8/static/js/2.9dc94117.chunk.js.map",
     "index.html": "https://sreejith888.github.io/csb-tjkwj8/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://sreejith888.github.io/csb-tjkwj8/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://sreejith888.github.io/csb-tjkwj8/static/js/2.cc863786.chunk.js.LICENSE.txt"
+    "static/js/2.9dc94117.chunk.js.LICENSE.txt": "https://sreejith888.github.io/csb-tjkwj8/static/js/2.9dc94117.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5ad09479.js",
-    "static/js/2.cc863786.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.ce45dd3b.chunk.js"
+    "static/js/2.9dc94117.chunk.js",
+    "static/js/main.fb927135.chunk.js"
   ]
 }
